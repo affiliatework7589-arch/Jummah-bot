@@ -1,0 +1,5 @@
+node_modules/
+sessions/
+qr_*.png
+.env
+.DS_Store
